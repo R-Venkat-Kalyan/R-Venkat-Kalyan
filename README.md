@@ -20,13 +20,45 @@ I'm a passionate [Your Profession or Field] with a focus on [Your Interest or Sp
 <!-- Internship Experience -->
 ## 🚀 Internship Experience
 - **Internship Position:** [Internship Title]
-- **Company:** [Company Name]
-- **Duration:** [Start Date] - [End Date]
-- **Description:** [Brief Description of Your Internship Experience]
+  - **Company:** [Company Name]
+  - **Duration:** [Start Date] - [End Date]
+  - **Description:** [Brief Description of Your Internship Experience]
+- **Internship Position:** [Internship Title]
+  - **Company:** [Company Name]
+  - **Duration:** [Start Date] - [End Date]
+  - **Description:** [Brief Description of Your Internship Experience]
 
-<!-- Portfolio -->
-## 🌐 Portfolio
-Explore more about me and my work on my portfolio: [Your Portfolio Link](Your Portfolio Link)
+<!-- Skills -->
+## 🛠️ Skills
+### Frontend Skills
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Vue.js
+
+### Backend Skills
+- Node.js
+- Express.js
+- Django
+- Flask
+
+### Web Frameworks
+- Bootstrap
+- Tailwind CSS
+- Materialize CSS
+- Material UI
+
+### Popular Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+### Global Certifications
+- AWS Certified Solutions Architect
+- Google Cloud Professional Cloud Architect
+- Microsoft Certified: Azure Solutions Architect Expert
 
 <!-- Connect with Me -->
 ## 🌟 Connect with Me
