@@ -6,9 +6,11 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 <!-- Skills -->
 ## 🛠️ Skills
 
-| Frontend & Web Frameworks | Databases & Familiar Tools |
-| --------------------------| --------------------------|
-| ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML<br>![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot<br>![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS<br>![Django](https://img.icons8.com/color/48/000000/django.png) Django<br>![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript<br>![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL<br>![Git](https://img.icons8.com/color/48/000000/git.png) Git<br>![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB<br>![GitHub](https://img.icons8.com/material-sharp/48/000000/github.png) GitHub<br>![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code<br>![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS |
+| Frontend | Web Frameworks | Databases | Familiar Tools |
+|----------|----------------|-----------|----------------|
+| ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) |
+| ![CSS](https://img.icons8.com/color/48/000000/css3.png) | ![Django](https://img.icons8.com/color/48/000000/django.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![GitHub](https://img.icons8.com/material-sharp/48/000000/github.png) |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) | ![Flask](https://img.icons8.com/color/48/000000/flask.png) | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) | ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) |
 
 
 
