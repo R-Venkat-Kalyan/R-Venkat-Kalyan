@@ -25,30 +25,22 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 
 - **Bharat Intern Virtual Internship**
   - **Duration:** [Start Date] - [End Date]
-  - **Description:** Created personal portfolio website and temperature converter website. 
+  - **Description:** Created personal portfolio website and temperature converter website.
 
 <!-- Skills -->
 ## 🛠️ Skills
 ### Frontend Skills
-<img src="https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/9147f3c4-a7b8-4a53-be44-64598fcc1b7b" width="24px"/> HTML <br>
-- CSS <img src="https://img.icons8.com/color/48/000000/css3.png" width="24px"/>
-- Bootstrap <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="24px"/>
+- HTML <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="24px"/> CSS <img src="https://img.icons8.com/color/48/000000/css3.png" width="24px"/> Bootstrap <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="24px"/>
 
 ### Backend Skills
-- Spring Boot <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="24px"/>
-- Django <img src="https://img.icons8.com/color/48/000000/django.png" width="24px"/>
-- Flask <img src="https://img.icons8.com/color/48/000000/flask.png" width="24px"/>
+- Spring Boot <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="24px"/> Django <img src="https://img.icons8.com/color/48/000000/django.png" width="24px"/> Flask <img src="https://img.icons8.com/color/48/000000/flask.png" width="24px"/>
 
 ### Tools
-- Git <img src="https://img.icons8.com/color/48/000000/git.png" width="24px"/>
-- GitHub <img src="https://img.icons8.com/material-sharp/48/000000/github.png" width="24px"/>
-- VS Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="24px"/>
+- Git <img src="https://img.icons8.com/color/48/000000/git.png" width="24px"/> GitHub <img src="https://img.icons8.com/material-sharp/48/000000/github.png" width="24px"/> VS Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="24px"/>
 
 <!-- Certifications -->
 ## 🏆 Certifications
-- AWS Cloud Practitioner <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="24px"/>
-- Red Hat Application Developer <img src="https://img.icons8.com/color/48/000000/red-hat.png" width="24px"/>
-- Programming in Java (NPTEL & Hackerrank) <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="24px"/>
+- AWS Cloud Practitioner <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="24px"/> Red Hat Application Developer <img src="https://img.icons8.com/color/48/000000/red-hat.png" width="24px"/> Programming in Java (NPTEL & Hackerrank) <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="24px"/>
 
 <!-- Connect with Me -->
 ## 🌟 Connect with Me
