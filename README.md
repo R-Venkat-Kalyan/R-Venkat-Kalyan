@@ -1,5 +1,5 @@
 <!-- Your Name or Project Title -->
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Reddy Venkat Kalyan! 👋
 
 <!-- Brief Description -->
 I'm a Full Stack Developer with expertise in Spring Boot and moderate experience in Django and Flask. I enjoy working with HTML and leverage Bootstrap for CSS. Welcome to my GitHub profile where I share my projects and experiences.
@@ -30,25 +30,25 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 <!-- Skills -->
 ## 🛠️ Skills
 ### Frontend Skills
-- HTML ![HTML Icon](link to HTML icon)
-- CSS ![CSS Icon](link to CSS icon)
-- Bootstrap ![Bootstrap Icon](link to Bootstrap icon)
+- HTML ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
+- CSS ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+- Bootstrap ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 ### Backend Skills
-- Spring Boot ![Spring Boot Icon](link to Spring Boot icon)
-- Django ![Django Icon](link to Django icon)
-- Flask ![Flask Icon](link to Flask icon)
+- Spring Boot ![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png)
+- Django ![Django Icon](https://img.icons8.com/color/48/000000/django.png)
+- Flask ![Flask Icon](https://img.icons8.com/color/48/000000/flask.png)
 
 ### Tools
-- Git ![Git Icon](link to Git icon)
-- GitHub ![GitHub Icon](link to GitHub icon)
-- VS Code ![VS Code Icon](link to VS Code icon)
+- Git ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
+- GitHub ![GitHub Icon](https://img.icons8.com/material-sharp/48/000000/github.png)
+- VS Code ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 <!-- Certifications -->
 ## 🏆 Certifications
-- AWS Cloud Practitioner ![AWS Icon](link to AWS icon)
-- Red Hat Application Developer ![Red Hat Icon](link to Red Hat icon)
-- Programming in Java (NPTEL & Hackerrank) ![Java Icon](link to Java icon)
+- AWS Cloud Practitioner ![AWS Icon](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+- Red Hat Application Developer ![Red Hat Icon](https://img.icons8.com/color/48/000000/red-hat.png)
+- Programming in Java (NPTEL & Hackerrank) ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 <!-- Connect with Me -->
 ## 🌟 Connect with Me
