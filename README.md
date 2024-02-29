@@ -1,16 +1,16 @@
 <!-- Your Name or Project Title -->
-# Hi there, I'm Reddy Venkat Kalyan! 👋
+# Hi there, I'm [Your Name]! 👋
 
 <!-- Brief Description -->
 I'm a Full Stack Developer with expertise in Spring Boot and moderate experience in Django and Flask. I enjoy working with HTML and leverage Bootstrap for CSS. Welcome to my GitHub profile where I share my projects and experiences.
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=R-Venkat-Kalyan&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 <!-- Top Languages -->
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Venkat-Kalyan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 <!-- Featured Projects -->
 ## 🔥 Featured Projects
@@ -30,25 +30,25 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 <!-- Skills -->
 ## 🛠️ Skills
 ### Frontend Skills
-- HTML ![HTML Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
-- CSS ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
-- Bootstrap ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
+- HTML <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="24px"/>
+- CSS <img src="https://img.icons8.com/color/48/000000/css3.png" width="24px"/>
+- Bootstrap <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="24px"/>
 
 ### Backend Skills
-- Spring Boot ![Spring Boot Icon](https://img.icons8.com/color/48/000000/spring-logo.png)
-- Django ![Django Icon](https://img.icons8.com/color/48/000000/django.png)
-- Flask ![Flask Icon](https://img.icons8.com/color/48/000000/flask.png)
+- Spring Boot <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="24px"/>
+- Django <img src="https://img.icons8.com/color/48/000000/django.png" width="24px"/>
+- Flask <img src="https://img.icons8.com/color/48/000000/flask.png" width="24px"/>
 
 ### Tools
-- Git ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
-- GitHub ![GitHub Icon](https://img.icons8.com/material-sharp/48/000000/github.png)
-- VS Code ![VS Code Icon](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+- Git <img src="https://img.icons8.com/color/48/000000/git.png" width="24px"/>
+- GitHub <img src="https://img.icons8.com/material-sharp/48/000000/github.png" width="24px"/>
+- VS Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="24px"/>
 
 <!-- Certifications -->
 ## 🏆 Certifications
-- AWS Cloud Practitioner ![AWS Icon](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-- Red Hat Application Developer ![Red Hat Icon](https://img.icons8.com/color/48/000000/red-hat.png)
-- Programming in Java (NPTEL & Hackerrank) ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+- AWS Cloud Practitioner <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="24px"/>
+- Red Hat Application Developer <img src="https://img.icons8.com/color/48/000000/red-hat.png" width="24px"/>
+- Programming in Java (NPTEL & Hackerrank) <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="24px"/>
 
 <!-- Connect with Me -->
 ## 🌟 Connect with Me
