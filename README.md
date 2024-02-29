@@ -1,25 +1,18 @@
 <!-- Your Name or Project Title -->
 # Hi there, I'm [Your Name]! 👋
+<!-- Brief Description -->
+I'm a Full Stack Developer with expertise in Spring Boot and moderate experience in Django and Flask. I enjoy working with HTML and leverage Bootstrap for CSS. Welcome to my GitHub profile where I share my projects and experiences.
 
 <!-- Skills -->
 ## 🛠️ Skills
 
-### Frontend & Web Frameworks
-| Frontend            | Web Frameworks        |
-|---------------------|-----------------------|
-| ![HTML](https://img.shields.io/badge/HTML-Expert-orange) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Expert-green) |
-| ![CSS](https://img.shields.io/badge/CSS-Expert-blue) | ![Django](https://img.shields.io/badge/Django-Intermediate-green) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow) | ![Flask](https://img.shields.io/badge/Flask-Intermediate-green) |
+| Frontend & Web Frameworks     | Databases & Familiar Tools     |
+| ------------------------------ | ------------------------------ |
+| ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML<br>![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL<br>![Git](https://img.icons8.com/color/48/000000/git.png) Git |
+| ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS<br>![Django](https://img.icons8.com/color/48/000000/django.png) Django | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB<br>![GitHub](https://img.icons8.com/material-sharp/48/000000/github.png) GitHub |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript<br>![Flask](https://img.icons8.com/color/48/000000/flask.png) Flask | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code<br>![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS |
 
-### Databases & Familiar Tools
-| Databases            | Familiar Tools        |
-|----------------------|-----------------------|
-| ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-purple) | ![Git](https://img.shields.io/badge/Git-Advanced-red) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-purple) | ![GitHub](https://img.shields.io/badge/GitHub-Advanced-red) |
-|  | ![VS Code](https://img.shields.io/badge/VS_Code-Advanced-red) |
 
-<!-- Brief Description -->
-I'm a Full Stack Developer with expertise in Spring Boot and moderate experience in Django and Flask. I enjoy working with HTML and leverage Bootstrap for CSS. Welcome to my GitHub profile where I share my projects and experiences.
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
