@@ -9,38 +9,9 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 
 | Frontend | Web Frameworks | Databases | Programming Languages | Familiar Tools | IDEs |
 |----------|----------------|-----------|-----------------------|----------------|------|
-| <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML"><span class="tooltiptext">HTML</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"><span class="tooltiptext">Bootstrap</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"><span class="tooltiptext">Tailwind CSS</span></div> | <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot"><span class="tooltiptext">Spring Boot</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django"><span class="tooltiptext">Django</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate"><span class="tooltiptext">Hibernate</span></div> | <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"><span class="tooltiptext">MySQL</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"><span class="tooltiptext">MongoDB</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle"><span class="tooltiptext">Oracle</span></div> | <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"><span class="tooltiptext">Java</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"><span class="tooltiptext">Python</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"><span class="tooltiptext">C</span></div> | <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"><span class="tooltiptext">GitHub</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman"><span class="tooltiptext">Postman</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"><span class="tooltiptext">Git</span></div> | <div class="tooltip"><img src="https://img.icons8.com/fluency/48/000000/eclipse-ide.png" alt="Eclipse"><span class="tooltiptext">Eclipse</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"><span class="tooltiptext">VS Code</span></div> <br> <div class="tooltip"><img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"><span class="tooltiptext">PyCharm</span></div> |
-
-<style>
-    .tooltip {
-        position: relative;
-        display: inline-block;
-        border-bottom: 1px dotted black;
-    }
-
-    .tooltip .tooltiptext {
-        visibility: hidden;
-        width: 120px;
-        background-color: #555;
-        color: #fff;
-        text-align: center;
-        border-radius: 6px;
-        padding: 5px 0;
-        position: absolute;
-        z-index: 1;
-        bottom: 125%;
-        left: 50%;
-        margin-left: -60px;
-        opacity: 0;
-        transition: opacity 0.3s;
-    }
-
-    .tooltip:hover .tooltiptext {
-        visibility: visible;
-        opacity: 1;
-    }
-</style>
-
+| ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)  | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)  | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) M | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  | ![GitHub](https://img.icons8.com/color/48/000000/github-2.png)  | ![Eclipse](https://img.icons8.com/fluency/48/000000/eclipse-ide.png)  |
+| ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | ![Django](https://img.icons8.com/color/48/000000/django.png)  | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)  | ![Python](https://img.icons8.com/color/48/000000/python.png)  | ![Git](https://img.icons8.com/color/48/000000/git.png)  | ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) |
+| ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)  | ![Hibernate](https://img.icons8.com/color/48/000000/hibernate.png)  | ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)  | ![C](https://img.icons8.com/color/48/000000/c-programming.png)  | ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png)  | ![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png)  |
 
 
 <!-- GitHub Stats -->
