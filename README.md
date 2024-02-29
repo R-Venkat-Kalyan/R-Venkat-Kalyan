@@ -25,12 +25,13 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 
 - **Bharat Intern Virtual Internship**
   - **Duration:** [Start Date] - [End Date]
-  - **Description:** Created personal portfolio website and temperature converter website.
+  - **Description:** Created personal portfolio website and temperature converter website. 
 
 <!-- Skills -->
 ## 🛠️ Skills
 ### Frontend Skills
-- HTML <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="24px"/>
+![image](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/9147f3c4-a7b8-4a53-be44-64598fcc1b7b)
+<img src="https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/9147f3c4-a7b8-4a53-be44-64598fcc1b7b" width="24px"/> HTML <br>
 - CSS <img src="https://img.icons8.com/color/48/000000/css3.png" width="24px"/>
 - Bootstrap <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="24px"/>
 
