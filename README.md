@@ -2,15 +2,15 @@
 # Hi there, I'm [Your Name]! 👋
 
 <!-- Brief Description -->
-I'm a passionate [Your Profession or Field] with a focus on [Your Interest or Specialty]. Welcome to my GitHub profile where I share my projects and experiences.
+I'm a Full Stack Developer with expertise in Spring Boot and moderate experience in Django and Flask. I enjoy working with HTML and leverage Bootstrap for CSS. Welcome to my GitHub profile where I share my projects and experiences.
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=R-Venkat-Kalyan&show_icons=true&theme=radical)
 
 <!-- Top Languages -->
 ## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Venkat-Kalyan&layout=compact&theme=radical)
 
 <!-- Featured Projects -->
 ## 🔥 Featured Projects
@@ -19,46 +19,36 @@ I'm a passionate [Your Profession or Field] with a focus on [Your Interest or Sp
 
 <!-- Internship Experience -->
 ## 🚀 Internship Experience
-- **Internship Position:** [Internship Title]
-  - **Company:** [Company Name]
+- **AICTE Virtual Internship**
   - **Duration:** [Start Date] - [End Date]
-  - **Description:** [Brief Description of Your Internship Experience]
-- **Internship Position:** [Internship Title]
-  - **Company:** [Company Name]
+  - **Description:** Basic concepts of AWS services.
+
+- **Bharat Intern Virtual Internship**
   - **Duration:** [Start Date] - [End Date]
-  - **Description:** [Brief Description of Your Internship Experience]
+  - **Description:** Created personal portfolio website and temperature converter website.
 
 <!-- Skills -->
 ## 🛠️ Skills
 ### Frontend Skills
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Vue.js
+- HTML ![HTML Icon](link to HTML icon)
+- CSS ![CSS Icon](link to CSS icon)
+- Bootstrap ![Bootstrap Icon](link to Bootstrap icon)
 
 ### Backend Skills
-- Node.js
-- Express.js
-- Django
-- Flask
+- Spring Boot ![Spring Boot Icon](link to Spring Boot icon)
+- Django ![Django Icon](link to Django icon)
+- Flask ![Flask Icon](link to Flask icon)
 
-### Web Frameworks
-- Bootstrap
-- Tailwind CSS
-- Materialize CSS
-- Material UI
+### Tools
+- Git ![Git Icon](link to Git icon)
+- GitHub ![GitHub Icon](link to GitHub icon)
+- VS Code ![VS Code Icon](link to VS Code icon)
 
-### Popular Tools
-- Git
-- GitHub
-- VS Code
-- Postman
-
-### Global Certifications
-- AWS Certified Solutions Architect
-- Google Cloud Professional Cloud Architect
-- Microsoft Certified: Azure Solutions Architect Expert
+<!-- Certifications -->
+## 🏆 Certifications
+- AWS Cloud Practitioner ![AWS Icon](link to AWS icon)
+- Red Hat Application Developer ![Red Hat Icon](link to Red Hat icon)
+- Programming in Java (NPTEL & Hackerrank) ![Java Icon](link to Java icon)
 
 <!-- Connect with Me -->
 ## 🌟 Connect with Me
