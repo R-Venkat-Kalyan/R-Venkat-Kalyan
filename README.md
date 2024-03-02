@@ -17,9 +17,10 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 
 <!-- Certifications -->
 ## 🏆 Certifications
-![AWS Cloud Practitioner](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/2d78236e-e731-4e9a-9ff7-da878ae1281f.png) **AWS Cloud Practitioner**
-![Red Hat Application Developer](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7df3a151-be34-4834-9f9a-9ef737980b0d.png) **Red Hat Application Developer**
-![Programming in Java (NPTEL & Hackerrank)](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/55762ae1-21a1-4499-ae21-46d684dd6147.png) **Programming in Java (NPTEL & Hackerrank)**
+![AWS Cloud Practitioner](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/2d78236e-e731-4e9a-9ff7-da878ae1281f.png) AWS Cloud Practitioner
+![Red Hat Application Developer](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7df3a151-be34-4834-9f9a-9ef737980b0d.png) Red Hat Application Developer
+![Programming in Java (NPTEL & Hackerrank)](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/55762ae1-21a1-4499-ae21-46d684dd6147.png) Programming in Java (NPTEL & Hackerrank)
+
 
 
 <!-- Featured Projects -->
