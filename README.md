@@ -17,9 +17,10 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 
 <!-- Certifications -->
 ## 🏆 Certifications
-- ![image](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/2d78236e-e731-4e9a-9ff7-da878ae1281f) AWS Cloud Practitioner
-- ![image](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7df3a151-be34-4834-9f9a-9ef737980b0d) Red Hat Application Developer
-- ![image](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/55762ae1-21a1-4499-ae21-46d684dd6147) Programming in Java (NPTEL & Hackerrank)
+![AWS Cloud Practitioner](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/2d78236e-e731-4e9a-9ff7-da878ae1281f.png) **AWS Cloud Practitioner**
+![Red Hat Application Developer](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7df3a151-be34-4834-9f9a-9ef737980b0d.png) **Red Hat Application Developer**
+![Programming in Java (NPTEL & Hackerrank)](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/55762ae1-21a1-4499-ae21-46d684dd6147.png) **Programming in Java (NPTEL & Hackerrank)**
+
 
 <!-- Featured Projects -->
 ## 🔥 Featured Projects
@@ -49,7 +50,7 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
    - **Tech Stack:** HTML, CSS, JavaScript.
    - **Deployment:** Deployed on GitHub Pages.
    - **Repository:** [Personal Portfolio Repository](https://github.com/R-Venkat-Kalyan/R-Venkat-Kalyan.github.io)
-   - **Deployed Link:** [Personal Portfolio Deployed Link](Your Deployed Project Link)
+   - **Deployed Link:** [Personal Portfolio Deployed Link](https://r-venkat-kalyan.github.io/)
 
 <!-- Internship Experience -->
 ## 🚀 Internship Experience
