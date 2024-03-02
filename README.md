@@ -12,11 +12,6 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 | ![Bootstrap](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/b86cc618-36fd-4ce2-bca0-a9f3a50c112b) | ![Django](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/0400966a-2818-4a8d-a2b5-fcdf338dae1a) | ![MongoDB](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/95920bed-892d-444f-b29b-3a858658e759) | ![Python](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/b91224db-d3ab-4a27-8d86-1a1c247da83a) | ![Postman](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/8cb81023-3c28-44b5-b9c0-5a5ad4e868d8) | ![VS Code](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/36cb29ea-dbad-4b76-8654-2bc7c63c9efc) |
 | ![Tailwind CSS](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/0ddba6d7-c542-4df7-ae02-19997997ddb8) | ![Hibernate](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/0a100fa6-f7fe-4735-a1e4-971ec9c3c079) | ![Oracle](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/def3e749-c5e5-4465-a1e0-8c085348dde7) | ![C](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/bb6edf12-d57c-4948-838c-11c98f8d4bb7) | ![Git](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/38e2b01b-a5bc-4704-9880-e20e78fa2b91) | ![PyCharm](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7dd63f9d-480d-4088-9295-f38d767995fc) |
 
-
-
-
-## 🏆 Certifications
-
 ## 🏆 Certifications
 
 ### Red Hat Certified Application Developer
