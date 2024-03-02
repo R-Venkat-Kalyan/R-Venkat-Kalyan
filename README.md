@@ -15,12 +15,49 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 
 
 
-<!-- Certifications -->
 ## 🏆 Certifications
-![AWS Cloud Practitioner](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/2d78236e-e731-4e9a-9ff7-da878ae1281f.png) AWS Cloud Practitioner
-![Red Hat Application Developer](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7df3a151-be34-4834-9f9a-9ef737980b0d.png) Red Hat Application Developer
-![Programming in Java (NPTEL & Hackerrank)](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/55762ae1-21a1-4499-ae21-46d684dd6147.png) Programming in Java (NPTEL & Hackerrank)
 
+<div class="container">
+  <div class="certification">
+    <img src="https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/2d78236e-e731-4e9a-9ff7-da878ae1281f.png">
+    <h2>AWS Cloud Practitioner</h2>
+  </div>
+  <div class="certification">
+    <img src="https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7df3a151-be34-4834-9f9a-9ef737980b0d.png">
+    <h2>Red Hat Application Developer</h2>
+  </div>
+  <div class="certification">
+    <img src="https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/55762ae1-21a1-4499-ae21-46d684dd6147.png">
+    <h2>Programming in Java (NPTEL & Hackerrank)</h2>
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+
+  .certification {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .certification img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+  }
+
+  .certification h2 {
+    font-size: 20px;
+    margin: 0;
+  }
+</style>
 
 
 <!-- Featured Projects -->
