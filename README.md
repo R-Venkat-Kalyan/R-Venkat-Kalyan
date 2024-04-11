@@ -82,7 +82,7 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
 ## 🌟 Connect with Me
 - <a href="https://www.linkedin.com/in/reddy-venkat-kalyan-822981225/" target="_blank">LinkedIn</a>
 - <a href="https://t.me/+91977636577" target="_blank">Telegram</a>
-- <a href="https://instagram.com/kalyan_chowdary_04?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">Insatgram</a>
+- <a href="https://instagram.com/kalyan_chowdary_04?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">Instagram</a>
 
 
 <!-- Footer -->
