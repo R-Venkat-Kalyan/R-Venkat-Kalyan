@@ -35,7 +35,7 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
    - **Tech Stack:** HTML, Bootstrap, CSS, MySQL, Spring Boot.
    - **Deployment:** Deployed on Render cloud platform.
    - **Repository:** [TaskPrompter Repository](https://github.com/R-Venkat-Kalyan/taskprompter)
-   - **Deployed Link:** [TaskPrompter Deployed Link](https://taskprompter-fe.onrender.com/)
+   - **Deployed Link:** [TaskPrompter Deployed Link](https://taskprompter-fe.vercel.app/)
    
 2. **Counseling Management System**
    - **Description:** Counseling Management System is a web application used by educational institutions to enhance counselor-student mapping.
