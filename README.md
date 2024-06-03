@@ -42,7 +42,7 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
    - **Tech Stack:** HTML, Bootstrap, CSS, MongoDB, Spring Boot.
    - **Deployment:** Deployed on Render cloud platform.
    - **Repository:** [Counseling Management System Repository](https://github.com/R-Venkat-Kalyan/CMS_MongoDB)
-   - **Deployed Link:** [Counseling Management System Deployed Link](https://cms-mongodb.onrender.com/)
+   - **Deployed Link:** [Counseling Management System Deployed Link](https://cms-front-end-pearl.vercel.app/)
 
 3. **PDFSquare**
    - **Description:** PDFSquare is an online PDF tool used to perform various operations on files such as PDF to image conversion, PDF to Word conversion, locking PDFs, compressing PDFs, and merging PDFs.
