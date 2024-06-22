@@ -56,7 +56,7 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
    - **Tech Stack:** HTML, CSS, JavaScript.
    - **Deployment:** Deployed on GitHub Pages.
    - **Repository:** [Personal Portfolio Repository](https://github.com/R-Venkat-Kalyan/R-Venkat-Kalyan.github.io)
-   - **Deployed Link:** [Personal Portfolio Deployed Link](https://r-venkat-kalyan.github.io/)
+   - **Deployed Link:** [Personal Portfolio Deployed Link](https://reddyvenkatkalyan.vercel.app/)
 
 <!-- Internship Experience -->
 ## 🚀 Internship Experience
