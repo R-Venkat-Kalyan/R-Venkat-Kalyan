@@ -51,12 +51,12 @@ I'm a Full Stack Developer with expertise in Spring Boot and moderate experience
    - **Repository:** [PDFSquare Repository](https://github.com/R-Venkat-Kalyan/PDF)
    - **Deployed Link:** [PDFSquare Deployed Link](https://pdfsquare959.pythonanywhere.com/)
 
-4. **Personal Portfolio**
-   - **Description:** Personal Portfolio showcasing projects and skills.
-   - **Tech Stack:** HTML, CSS, JavaScript.
-   - **Deployment:** Deployed on GitHub Pages.
-   - **Repository:** [Personal Portfolio Repository](https://github.com/R-Venkat-Kalyan/R-Venkat-Kalyan.github.io)
-   - **Deployed Link:** [Personal Portfolio Deployed Link](https://reddyvenkatkalyan.vercel.app/)
+4. **Notes APP**
+   - **Description:** A collection of foundational notes on various subjects.
+   - **Tech Stack:** HTML, CSS, JavaScript, React.
+   - **Deployment:** Deployed on Netlify.
+   - **Repository:** [Notes App Repository](https://github.com/R-Venkat-Kalyan/Notes-Page)
+   - **Deployed Link:** [Notes App Deployed Link](https://rvks-notes.netlify.app/)
 
 <!-- Internship Experience -->
 ## 🚀 Internship Experience
