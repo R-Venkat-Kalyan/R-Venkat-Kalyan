@@ -1,91 +1,106 @@
-<!-- Your Name or Project Title -->
-# Hi there, I'm Reddy Venkat Kalyan! 👋
-<!-- Brief Description -->
-I'm a Full Stack Developer with expertise in Spring Boot and moderate experience in Django and Flask. I enjoy working with HTML and leverage Bootstrap for CSS. Welcome to my GitHub profile where I share my projects and experiences.
+# Hi there, I'm Reddy Venkat Kalyan!
 
-<!-- Skills -->
-## 🛠️ Skills
+### 🚀 Java Developer | AI-Augmented Full-Stack Specialist
 
-| Frontend | Web Frameworks | Databases | Programming Languages | Familiar Tools | IDEs |
-|----------|----------------|-----------|-----------------------|----------------|------|
-| ![HTML](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/b36aee95-b275-4238-8f97-1d5dc9942226) | ![Spring Boot](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7b886cc8-bcef-454c-ad0c-16412d8e191e) | ![MySQL](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/072f7e60-2ce2-43b1-a269-befc186ee5b6) | ![Java](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/8cb0e319-9679-4462-8335-701874af7289) | ![GitHub](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/873267e1-79ba-4e97-ab98-75fb22383a01) | ![Eclipse](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/338f782d-67a3-4cbe-8e1f-428009998446) |
-| ![Bootstrap](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/b86cc618-36fd-4ce2-bca0-a9f3a50c112b) | ![Django](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/0400966a-2818-4a8d-a2b5-fcdf338dae1a) | ![MongoDB](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/95920bed-892d-444f-b29b-3a858658e759) | ![Python](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/b91224db-d3ab-4a27-8d86-1a1c247da83a) | ![Postman](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/8cb81023-3c28-44b5-b9c0-5a5ad4e868d8) | ![VS Code](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/36cb29ea-dbad-4b76-8654-2bc7c63c9efc) |
-| ![Tailwind CSS](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/0ddba6d7-c542-4df7-ae02-19997997ddb8) | ![Hibernate](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/0a100fa6-f7fe-4735-a1e4-971ec9c3c079) | ![Oracle](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/def3e749-c5e5-4465-a1e0-8c085348dde7) | ![C](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/bb6edf12-d57c-4948-838c-11c98f8d4bb7) | ![Git](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/38e2b01b-a5bc-4704-9880-e20e78fa2b91) | ![PyCharm](https://github.com/R-Venkat-Kalyan/Kalyan959/assets/110080245/7dd63f9d-480d-4088-9295-f38d767995fc) |
+Practical problem-solver with 1 year of professional experience at **Cognizant** building end-to-end applications. I am a high-productivity **"vibe-coder"** who specializes in re-tailoring existing UI templates into responsive, project-specific interfaces using **Tailwind CSS** and **Bootstrap**. I architect backends using the **Spring framework**, integrating **AI capabilities** to solve real-world tasks and connecting apps to **MongoDB** or **MySQL** databases. Expert at making solutions accessible by deploying Java applications to **AWS Elastic Beanstalk** and hosting UIs on **Netlify**.
 
-## 🏆 Certifications
+---
 
-### Red Hat Certified Application Developer
-- **Issuing Organization:** Red Hat
-- **Date of Certification:** August 2023
-  
-### AWS Certified Cloud Practitioner
-- **Issuing Organization:** Amazon Web Services
-- **Date of Certification:** July 2023
+### 🛠️ Tech Stack & Ecosystem
 
-### Programming in Java 
-- **Issuing Organization:** NPTEL
-- **Date of Certification:** October 2022
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring AI](https://img.shields.io/badge/-Spring_AI-6DB33F?style=flat-square&logo=spring) ![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Cloud & DB** | ![AWS](https://img.shields.io/badge/-AWS_Beanstalk-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+| **Tools** | ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Kibana](https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
+---
 
+### 💼 Professional Experience
 
-<!-- Featured Projects -->
-## 🔥 Featured Projects
-1. **TaskPrompter**
-   - **Description:** TaskPrompter is a web application used for efficient task management. Users will be notified via email for upcoming scheduled events two hours before the event.
-   - **Tech Stack:** HTML, Bootstrap, CSS, MySQL, Spring Boot.
-   - **Deployment:** Deployed on Render cloud platform.
-   - **Repository:** [TaskPrompter Repository](https://github.com/R-Venkat-Kalyan/taskprompter)
-   - **Deployed Link:** [TaskPrompter Deployed Link](https://taskprompter-fe.vercel.app/)
-   
-2. **Counseling Management System**
-   - **Description:** Counseling Management System is a web application used by educational institutions to enhance counselor-student mapping.
-   - **Tech Stack:** HTML, Bootstrap, CSS, MongoDB, Spring Boot.
-   - **Deployment:** Deployed on Render cloud platform.
-   - **Repository:** [Counseling Management System Repository](https://github.com/R-Venkat-Kalyan/CMS_MongoDB)
-   - **Deployed Link:** [Counseling Management System Deployed Link](https://cms-front-end-pearl.vercel.app/)
+#### **GenC Internship | Cognizant** *(Jan 2025 — April 2025)*
+* Completed intensive foundational training in **Java backend development**, Web Services, and soft skills.
+* Successfully evaluated on **finance-domain mini-projects**, focusing on core business logic and software engineering principles.
 
-3. **PDFSquare**
-   - **Description:** PDFSquare is an online PDF tool used to perform various operations on files such as PDF to image conversion, PDF to Word conversion, locking PDFs, compressing PDFs, and merging PDFs.
-   - **Tech Stack:** HTML, Tailwind CSS, Django.
-   - **Deployment:** Deployed on PythonAnywhere platform.
-   - **Repository:** [PDFSquare Repository](https://github.com/R-Venkat-Kalyan/PDF)
-   - **Deployed Link:** [PDFSquare Deployed Link](https://pdfsquare959.pythonanywhere.com/)
+#### **Programmer Analyst Trainee | Cognizant (Verizon Client)** *(April 2025 — Present)*
+* Served as a **Request and Response Orchestrator** in the CJCM team, managing critical data flows between SOE (Frontend) and CXP (Database) systems.
+* Supported **telecom customer-case workflows** by validating REST service integrations for port-in requests and profile updates.
+* Analyzed **service logs and Kibana traces** to troubleshoot integration issues between frontend services and backend customer platforms.
+* Designed a **Team Productivity Tracker** using Spring Boot and MongoDB to replace manual, error-prone Excel-based workflows.
+* **Automated monthly reporting** of story point totals, absence management, and work logs using complex MongoDB aggregation queries.
+* Participated in **Agile ceremonies**, including sprint planning and code reviews, to ensure high-quality delivery within the Verizon ecosystem.
 
-4. **Notes APP**
-   - **Description:** A collection of foundational notes on various subjects.
-   - **Tech Stack:** HTML, CSS, JavaScript, React.
-   - **Deployment:** Deployed on Netlify.
-   - **Repository:** [Notes App Repository](https://github.com/R-Venkat-Kalyan/Notes-Page)
-   - **Deployed Link:** [Notes App Deployed Link](https://rvks-notes.netlify.app/)
+---
+### 🔥 Featured Projects & Innovations
 
-<!-- Internship Experience -->
-## 🚀 Internship Experience
-1. **AICTE Virtual Internship**
-   - **Duration:** [Dec 2022] - [Feb 2023]
-   - **Description:** Gained insights about AWS cloud services.
+#### 🏠 [MeenakshiHostels](http://meenakshihostels-env.eba-sbphzs94.us-east-1.elasticbeanstalk.com/) | [GitHub](https://github.com/R-Venkat-Kalyan/Hostel-Management-System)
+*Administrative Intelligence Platform*
+* Engineered a centralized administrative platform to transition a private hostel from paper-based records to a data-driven ecosystem, enabling real-time visibility for 300+ users.
+* Optimized database performance by integrating **Cloudinary** for media management, ensuring only lightweight image URLs are stored in **MongoDB** to maintain a high-performance backend.
+* Architected a secure, session-managed monolithic backend using a **layered Spring Boot structure** to ensure maintainable business logic and robust role-based access control.
 
-2. **Bharat Intern Web Development Virtual Internship**
-   - **Duration:** [Oct 2023] - [Nov 2023]
-   - **Description:** Designed personal portfolio website and built a temperature converter website.
+#### 🤖 [IntelligenceIQ](http://springintelligeneceaihub-env.eba-guquqqc5.us-east-1.elasticbeanstalk.com/) | [GitHub](https://github.com/R-Venkat-Kalyan/SB_Gen_AI)
+*Generative AI Codebase Engine*
+* Built an AI-driven intelligence layer to solve onboarding bottlenecks by providing a **conversational knowledge engine** that acts as a 24/7 automated assistant for developers.
+* Integrated a **Generative AI engine** that automates technical KT sessions and architectural code reviews, identifying logic errors to accelerate the development lifecycle.
+* Delivered a high-performance terminal UI using **in-memory caching** to achieve sub-second response times for complex method-level logic and syntax mapping.
 
+#### 💼 [JobTrackerly](https://jobtrackrly-front-end.netlify.app/) | [GitHub](https://github.com/R-Venkat-Kalyan/Job-Application-Tracker)
+*Full-Stack Application Management System*
+* Developed a full-stack tracking system with modules for application categorization, resume metadata storage, and real-time status management.
+* Implemented **reminder logic** for pending applications, triggering automated follow-up notifications after periods of user inactivity.
+* **Optimized storage by 85%** by architecting a metadata-first storage approach instead of storing full binary files within the database.
 
+---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=R-Venkat-Kalyan&show_icons=true&theme=radical)
+### 🌐 Beyond the Code
 
-<!-- Top Languages -->
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Venkat-Kalyan&layout=compact&theme=radical)
+<p align="center">
+  <a href="https://reddykalyan.in">
+    <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<!-- Connect with Me -->
-## 🌟 Connect with Me
-- <a href="https://www.linkedin.com/in/reddy-venkat-kalyan-822981225/" target="_blank">LinkedIn</a>
-- <a href="https://t.me/+91977636577" target="_blank">Telegram</a>
-- <a href="https://instagram.com/kalyan_chowdary_04?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">Instagram</a>
+> **Want to see more?** Explore my full interactive journey, detailed project breakdowns, and live demos at **[Netlify](https://reddyvenkatkalyan.netlify.app/)**. From UI-tailoring experiments to deep backend integrations, it’s all there.
 
+---
 
-<!-- Footer -->
-## 📝 Footer
-Thanks for stopping by! Don't forget to ⭐️ [Star](https://github.com/R-Venkat-Kalyan) my repositories if you found them useful!
+### 🎓 Academic Journey: *"Educated myself to innovate, not just to graduate."*
 
+#### **Bachelor of Technology in Computer Science & Engineering**
+> **Koneru Lakshmaiah Education Foundation (KL University)** | *2021 — 2025* <br> > Focused on full-stack architecture, cloud computing, and AI integration. | **CGPA: 9.3/10**
+
+#### **Intermediate | Higher Secondary Education (Science)**
+> **Larambha College (CHSE Odisha)** | *2019 — 2021* <br> > Specialized in Physics, Chemistry, and Mathematics with a foundation in logical problem-solving. | **CGPA Equivalent: 7.2/10**
+
+#### **Secondary Education | Class 10**
+> **The Kosala School (CBSE)** | *2018 — 2019* <br> > Early exposure to foundational computer science and standardized academic excellence. | **CGPA: 6.9/10**
+
+---
+
+### 🏆 Certifications & Achievements
+
+* **AWS Certified Cloud Practitioner** | *Amazon Web Services*
+* **Red Hat Certified Application Developer** | *Red Hat*
+* **3-Star Java Rating** | *HackerRank*
+* **Programming in Java** | *NPTEL*
+
+---
+
+### 🌟 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/reddy-venkat-kalyan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  <a href="mailto:reddy.venkat.kalyan04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
+  </a>
+  <a href="https://reddyvenkatkalyan.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" />
+  </a>
+</p>
+
+---
