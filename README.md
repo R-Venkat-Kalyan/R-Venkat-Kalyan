@@ -58,7 +58,7 @@ Practical problem-solver with 1 year of professional experience at **Cognizant**
 ### 🌐 Beyond the Code
 
 <p align="center">
-  <a href="https://reddykalyan.in">
+  <a href="https://reddyvenkatkalyan.netlify.app/">
     <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
