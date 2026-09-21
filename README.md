@@ -2,7 +2,7 @@
 
 ### 🚀 Java Developer | AI-Augmented Full-Stack Specialist
 
-Practical problem-solver with 1 year of professional experience at **Cognizant** building end-to-end applications. I am a high-productivity developer who specializes in re-tailoring existing UI templates into responsive, project-specific interfaces using **Tailwind CSS** and **Bootstrap**. I architect backends using the **Spring framework**, integrating **AI capabilities** to solve real-world tasks and connecting apps to **MongoDB** or **MySQL** databases. Expert at making solutions accessible by deploying Java applications to **AWS Elastic Beanstalk** and hosting UIs on **Netlify**.
+Practical problem-solver with 1+ years of professional experience at **Cognizant** building end-to-end applications. I am a high-productivity developer who specializes in re-tailoring existing UI templates into responsive, project-specific interfaces using **Tailwind CSS** and **Bootstrap**. I architect backends using the **Spring framework**, integrating **AI capabilities** to solve real-world tasks and connecting apps to **MongoDB** or **MySQL** databases. Expert at making solutions accessible by deploying Java applications to **AWS Elastic Beanstalk** and hosting UIs on **Netlify**.
 
 📖 **Discover my engineering journey and what I'm building next:** [kalyansstory.netlify.app](https://kalyansstory.netlify.app/)
 
@@ -83,7 +83,7 @@ Practical problem-solver with 1 year of professional experience at **Cognizant**
 > **Koneru Lakshmaiah Education Foundation (KL University)** | *2021 — 2025* <br> > Focused on full-stack architecture, cloud computing, and AI integration. | **CGPA: 9.3/10**
 
 #### **Intermediate | Higher Secondary Education (Science)**
-> **Larambha College (CHSE Odisha)** | *2019 — 2021* <br> > Specialized in Physics, Chemistry, and Mathematics with a foundation in logical problem-solving. | **CGPA Equivalent: 7.2/10**
+> **Larambha College (CHSE Odisha)** | *2019 — 2021* <br> > Specialized in Physics, Chemistry, and Biology with a foundation in logical problem-solving. | **CGPA Equivalent: 7.2/10**
 
 #### **Secondary Education | Class 10**
 > **The Kosala School (CBSE)** | *2018 — 2019* <br> > Early exposure to foundational computer science and standardized academic excellence. | **CGPA: 6.9/10**
