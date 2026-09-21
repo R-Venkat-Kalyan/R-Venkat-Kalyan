@@ -2,7 +2,9 @@
 
 ### 🚀 Java Developer | AI-Augmented Full-Stack Specialist
 
-Practical problem-solver with 1 year of professional experience at **Cognizant** building end-to-end applications. I am a high-productivity **"vibe-coder"** who specializes in re-tailoring existing UI templates into responsive, project-specific interfaces using **Tailwind CSS** and **Bootstrap**. I architect backends using the **Spring framework**, integrating **AI capabilities** to solve real-world tasks and connecting apps to **MongoDB** or **MySQL** databases. Expert at making solutions accessible by deploying Java applications to **AWS Elastic Beanstalk** and hosting UIs on **Netlify**.
+Practical problem-solver with 1 year of professional experience at **Cognizant** building end-to-end applications. I am a high-productivity developer who specializes in re-tailoring existing UI templates into responsive, project-specific interfaces using **Tailwind CSS** and **Bootstrap**. I architect backends using the **Spring framework**, integrating **AI capabilities** to solve real-world tasks and connecting apps to **MongoDB** or **MySQL** databases. Expert at making solutions accessible by deploying Java applications to **AWS Elastic Beanstalk** and hosting UIs on **Netlify**.
+
+📖 **Discover my engineering journey and what I'm building next:** [kalyansstory.netlify.app](https://kalyansstory.netlify.app/)
 
 ---
 
@@ -20,17 +22,19 @@ Practical problem-solver with 1 year of professional experience at **Cognizant**
 
 ### 💼 Professional Experience
 
-#### **GenC Internship | Cognizant** *(Jan 2025 — April 2025)*
-* Completed intensive foundational training in **Java backend development**, Web Services, and soft skills.
-* Successfully evaluated on **finance-domain mini-projects**, focusing on core business logic and software engineering principles.
+#### 💻 **Junior Software Engineer** | Cognizant (Client: Verizon)
+*📍 Hyderabad, Telangana, India | Jun 2025 — Present*
+* Engineered a **Spring Boot** and **MongoDB** productivity tool for 60+ developers, replacing manual Excel workflows with automated daily logging, managerial dashboards, and complex aggregation queries for monthly story-point and absence reporting.
+* Migrated core business APIs from Java 8 to **Java 17** to unlock performance enhancements, utilizing **GitHub Copilot** to efficiently refactor logic, identify edge cases, and generate robust unit tests.
+* Streamlined system performance by systematically retiring deprecated feature flags across Agile sprints, achieving a **~500ms latency reduction** with zero downtime through rigorous API-by-API regression testing.
+* Acted as the primary operational liaison between development and SRE teams, taking full ownership of ad-hoc **application deployments**, release validations, and proactive troubleshooting to ensure production stability.
+* Developed **Kibana dashboards** to monitor API health and order flows, empowering ops teams to rapidly identify and reflow failed transactions during high-traffic enterprise events like the iPhone 18 product launch.
+* Collaborated with frontend (SOE) and Pega orchestration (CJCM) teams to define **API contracts**, analyze data flows, and resolve cross-platform defects.
 
-#### **Programmer Analyst Trainee | Cognizant (Verizon Client)** *(April 2025 — Present)*
-* Served as a **Request and Response Orchestrator** in the CJCM team, managing critical data flows between SOE (Frontend) and CXP (Database) systems.
-* Supported **telecom customer-case workflows** by validating REST service integrations for port-in requests and profile updates.
-* Analyzed **service logs and Kibana traces** to troubleshoot integration issues between frontend services and backend customer platforms.
-* Designed a **Team Productivity Tracker** using Spring Boot and MongoDB to replace manual, error-prone Excel-based workflows.
-* **Automated monthly reporting** of story point totals, absence management, and work logs using complex MongoDB aggregation queries.
-* Participated in **Agile ceremonies**, including sprint planning and code reviews, to ensure high-quality delivery within the Verizon ecosystem.
+#### 🎓 **GenC Intern** | Cognizant
+*📍 Chennai, Tamil Nadu, India | Jan 2025 — May 2025*
+* Completed intensive foundational training in **Java backend development**, RESTful Web Services, and enterprise software engineering principles.
+* Successfully delivered and evaluated on finance-domain mini-projects, focusing on core business logic, database integration, and clean code practices.
 
 ---
 ### 🔥 Featured Projects & Innovations
@@ -58,12 +62,18 @@ Practical problem-solver with 1 year of professional experience at **Cognizant**
 ### 🌐 Beyond the Code
 
 <p align="center">
+  <a href="https://kalyansstory.netlify.app/">
+    <img src="https://img.shields.io/badge/READ_MY_STORY-005571?style=for-the-badge&logo=dev.to&logoColor=white" alt="My Story" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://reddyvenkatkalyan.netlify.app/">
     <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-> **Want to see more?** Explore my full interactive journey, detailed project breakdowns, and live demos at **[Netlify](https://reddyvenkatkalyan.netlify.app/)**. From UI-tailoring experiments to deep backend integrations, it’s all there.
+> 🤝 **Let's Connect:** Want to know why I build what I build? Read about my transition from non-tech to Junior Engineer and what I am looking for next at **[Kalyan's Story](https://kalyansstory.netlify.app/)**.
+>
+> 💻 **Want to see more?** Explore my full interactive journey, detailed project breakdowns, and live demos at my **[Portfolio](https://reddyvenkatkalyan.netlify.app/)**. 
 
 ---
 
@@ -98,10 +108,13 @@ Practical problem-solver with 1 year of professional experience at **Cognizant**
   <a href="mailto:reddy.venkat.kalyan04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
   </a>
+  <a href="https://kalyansstory.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Story-005571?style=for-the-badge&logo=dev.to&logoColor=white" height="28" />
+  </a>
   <a href="https://reddyvenkatkalyan.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" height="28" />
   </a>
-  <a href="https://drive.google.com/file/d/1S2osfvnWuh89ZKiPdZhwaoUqJeURiiFh/view?usp=drive_link" target="_blank">
+  <a href="https://docs.google.com/document/d/1mv4G-5Z6fEGZPVeJYUap-S1t-nL-l-Bb/edit?usp=sharing&ouid=116110425566405879224&rtpof=true&sd=true" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white" height="28" />
   </a>
 </p>
